@@ -1,0 +1,2 @@
+# atacoin
+Ata Coin
